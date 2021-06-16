@@ -1,0 +1,7 @@
+const person = {
+
+    person: 'Pallavi',
+    campus: 'Remote Campus'
+}
+
+console.log(`Hello, I am ${person.name} from ${person.campus} )
