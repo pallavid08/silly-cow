@@ -5,7 +5,7 @@ const person = {
 }
 
 const myInfo = () => {
-    console.log(`Hello, I am ${person.name} from ${person.campus}` )
+    return `Hello, I am ${person.name} from ${person.campus}` 
 };
 
 module.exports = myInfo;
